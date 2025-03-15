@@ -20,4 +20,6 @@ Bienvenido al repositorio de **Etérico Digital**, una página web de marketing 
 Creado por [Tu Nombre] para Etérico Digital.
 
 ## Licencia
-Este proyecto está bajo licencia MIT. ¡Siéntete libre de usarlo y modificarlo!
+Este proyecto está bajo licencia MIT. ¡Siéntete libre de usarlo y modificarlo! 
+
+
